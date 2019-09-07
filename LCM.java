@@ -1,5 +1,3 @@
-
-
 /**
  * Class LCM - Least common multiple
  * 
@@ -22,7 +20,7 @@ public class LCM
 	//     test if the number cand is the LCM of x and y
 	// }
 	//
-	// Do NOT create any Scanner, because you do NOT need 
+	// Don't need any Scanner, because you do NOT need 
     // to read in x and y from the keyboard.
 	// The values of x and y and PASSED in by the method call
     // (See the main() method below)
@@ -46,12 +44,6 @@ public class LCM
        return ans;    // Return the LCM found
 
        }
-
-
-
-
-
-	
 
 
     /* ==========================================================
