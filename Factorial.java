@@ -1,7 +1,3 @@
-
-
-
-
 public class Factorial {
   public static int factorial(int n) {
     int sol1, mySol;
