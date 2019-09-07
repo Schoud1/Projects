@@ -1,11 +1,3 @@
-
-/*
-THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING     
-CODE WRITTEN BY OTHER STUDENTS. _Sukhmani_Choudhry_
-*/
-
-
-
 public class EvalExpr
 {
    /* ===========================================================
