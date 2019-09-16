@@ -1,7 +1,7 @@
 
 
 
-public class HW10 {
+public class hw10 {
    
       
      public int InnerProd(int[]i, int[]j) {
