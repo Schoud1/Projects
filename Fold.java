@@ -1,9 +1,3 @@
-/*
-  THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING       
-  CODE WRITTEN BY OTHER STUDENTS. _Sukhmani_Choudhry_
-*/
-
-
 public class Fold {
     
         public static String foldString(String s) {
@@ -52,10 +46,7 @@ public class Fold {
         String out1 = "";
         String out2 = "";
 
-      /* =================================================================
-         This is extra work (for serious Computer Science majors)
-         Write the unfoldString() algorithm here
-         ================================================================= */
+
 
 
         return out;
